@@ -11,6 +11,7 @@
 		71D5698D2765D4500093D3D2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D5698C2765D4500093D3D2 /* ContentView.swift */; };
 		71D5698F2765D4510093D3D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71D5698E2765D4510093D3D2 /* Assets.xcassets */; };
 		71D569922765D4510093D3D2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71D569912765D4510093D3D2 /* Preview Assets.xcassets */; };
+		71D569992765D8E10093D3D2 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D569982765D8E10093D3D2 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		71D5698C2765D4500093D3D2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		71D5698E2765D4510093D3D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71D569912765D4510093D3D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		71D569982765D8E10093D3D2 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				71D5698A2765D4500093D3D2 /* CustomTabBarApp.swift */,
 				71D5698C2765D4500093D3D2 /* ContentView.swift */,
+				71D569982765D8E10093D3D2 /* HomeView.swift */,
 				71D5698E2765D4510093D3D2 /* Assets.xcassets */,
 				71D569902765D4510093D3D2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71D569992765D8E10093D3D2 /* HomeView.swift in Sources */,
 				71D5698D2765D4500093D3D2 /* ContentView.swift in Sources */,
 				71D5698B2765D4500093D3D2 /* CustomTabBarApp.swift in Sources */,
 			);
