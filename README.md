@@ -1,4 +1,4 @@
-# CustomTabBar
+# CustomTabBar without TabView
 CustomTabBar without TabView &amp; TabItems
 
 This does not use SwiftUI `TabView` and `.tabItem`
